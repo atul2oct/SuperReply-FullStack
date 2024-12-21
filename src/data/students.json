@@ -1,0 +1,123 @@
+[
+    {
+      "name": "John Doe",
+      "age": 20,
+      "marks": 85,
+      "avgMarks": 80,
+      "rollNumber": "A102",
+      "class": "10th Grade",
+      "city": "New York",
+      "attendance": "95%"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 19,
+      "marks": 78,
+      "avgMarks": 74,
+      "rollNumber": "B203",
+      "class": "10th Grade",
+      "city": "Los Angeles",
+      "attendance": "89%"
+    },
+    {
+      "name": "Sam Wilson",
+      "age": 21,
+      "marks": 90,
+      "avgMarks": 87,
+      "rollNumber": "C304",
+      "class": "12th Grade",
+      "city": "Chicago",
+      "attendance": "97%"
+    },
+    {
+      "name": "Lisa Brown",
+      "age": 20,
+      "marks": 88,
+      "avgMarks": 82,
+      "rollNumber": "D405",
+      "class": "11th Grade",
+      "city": "Houston",
+      "attendance": "94%"
+    },
+    {
+      "name": "Mike Davis",
+      "age": 18,
+      "marks": 75,
+      "avgMarks": 72,
+      "rollNumber": "E506",
+      "class": "10th Grade",
+      "city": "Phoenix",
+      "attendance": "88%"
+    },
+    {
+      "name": "Emma Wilson",
+      "age": 22,
+      "marks": 92,
+      "avgMarks": 90,
+      "rollNumber": "F607",
+      "class": "12th Grade",
+      "city": "Philadelphia",
+      "attendance": "98%"
+    },
+    {
+      "name": "James Taylor",
+      "age": 19,
+      "marks": 79,
+      "avgMarks": 76,
+      "rollNumber": "G708",
+      "class": "11th Grade",
+      "city": "San Antonio",
+      "attendance": "92%"
+    },
+    {
+      "name": "Sophia Johnson",
+      "age": 20,
+      "marks": 84,
+      "avgMarks": 81,
+      "rollNumber": "H809",
+      "class": "10th Grade",
+      "city": "San Diego",
+      "attendance": "96%"
+    },
+    {
+      "name": "David Martin",
+      "age": 18,
+      "marks": 70,
+      "avgMarks": 68,
+      "rollNumber": "I910",
+      "class": "9th Grade",
+      "city": "Dallas",
+      "attendance": "85%"
+    },
+    {
+      "name": "Olivia Harris",
+      "age": 21,
+      "marks": 91,
+      "avgMarks": 89,
+      "rollNumber": "J011",
+      "class": "12th Grade",
+      "city": "San Jose",
+      "attendance": "99%"
+    },
+    {
+      "name": "Ethan Clark",
+      "age": 20,
+      "marks": 82,
+      "avgMarks": 80,
+      "rollNumber": "K112",
+      "class": "11th Grade",
+      "city": "Austin",
+      "attendance": "94%"
+    },
+    {
+      "name": "Isabella Lewis",
+      "age": 19,
+      "marks": 77,
+      "avgMarks": 75,
+      "rollNumber": "L213",
+      "class": "10th Grade",
+      "city": "Fort Worth",
+      "attendance": "91%"
+    }
+  ]
+  
